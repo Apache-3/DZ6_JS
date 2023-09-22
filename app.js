@@ -11,7 +11,7 @@ function getAllBooks(...note){
     console.log(result)
     console.log(another)
 }
-getAllBooks('Robbin Good', 'Garry Potter', 'Hobbits','Romeo and Julieta','Lolly')
+getAllBooks('Robbin Good', 'Garry Potter', 'Hobbits','Romeo and Julieta','Lolly','Sherlock Holm','Gone with the Wind','The Great Gatsby','The Odyssey by Homer')
 
 const calculate = document.querySelector('#calculate')
 calculate.addEventListener('click',() => {
